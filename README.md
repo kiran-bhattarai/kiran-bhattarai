@@ -1,23 +1,23 @@
 
-<h1 align="left">Kiran Bhattarai</h1>
+<h1 align="left" style="font-size: 32px">Kiran Bhattarai</h1>
 
 ###
 
-<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" height="140" alt="coding gif"  />
+<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" height="120" alt="coding gif"   style="margin-bottom: 4px;" />
 
-<p align="left">I like building things that solve problems, experimenting with code, and understanding how systems work.</p>
-
-###
-
-<h2 align="left">About me</h2>
+<p align="left" style="font-size: 16px">I like building things that solve problems, experimenting with code, and understanding how systems work.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since I started building my own projects  <br>📚 I'm currently learning: improving code structure and exploring web development  <br>🎯 Goals: practice clean code, apply OOP, and build practical projects  <br>🎲 Fun fact: I debug on paper when nothing works</p>
+<h2 align="left" style="font-size: 30px">About me</h2>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left" style="font-size: 16px">✨ Creating bugs since I started building my own projects  <br>📚 I'm currently learning: improving code structure and exploring web development  <br>🎯 Goals: practice clean code, apply OOP, and build practical projects  <br>🎲 Fun fact: I debug on paper when nothing works</p>
+
+###
+
+<h2 align="left" style="font-size: 30px">I code with</h2>
 
 ###
 
@@ -33,7 +33,8 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left" style="font-size: 30px">Connect with me</h2>
 
 ###
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:official.kiranbhattarai@gmail.com)
+
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=official.kiranbhattarai@gmail.com)
