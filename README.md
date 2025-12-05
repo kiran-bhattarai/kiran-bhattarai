@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left" style="font-size: 16px">✨ Creating bugs since I started building my own projects  <br>📚 I'm currently learning: improving code structure and exploring web development  <br>🎯 Goals: practice clean code, apply OOP, and build practical projects  <br>🎲 Fun fact: I debug on paper when nothing works</p>
+<p align="left" style="font-size: 16px">📚 I'm currently learning: improving code structure and exploring web development  <br>🎯 Goals: practice clean code, apply OOP, and build practical projects  </p>
 
 ###
 
